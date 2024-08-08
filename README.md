@@ -1,5 +1,4 @@
 
-```markdown
 # Training Redux App
 
 ### Overview
