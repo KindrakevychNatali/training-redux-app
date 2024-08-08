@@ -2,17 +2,17 @@
 ```markdown
 # Training Redux App
 
-## Overview
+### Overview
 
-**Redux App** is a simple React application designed to demonstrate the usage of React along with Redux for state management. The application is bootstrapped with `create-react-app` and includes basic testing utilities provided by the `@testing-library`.
+**`Redux App`** is a simple React application designed to demonstrate the usage of React along with Redux for state management. The application is bootstrapped with `create-react-app` and includes basic testing utilities provided by the `@testing-library`.
 
-## Features
+### Features
 
-- **React 18**: The app is built using the latest version of React, taking advantage of its new features.
-- **Testing**: Includes testing utilities like `@testing-library/react` and `@testing-library/jest-dom` for unit testing.
-- **Fast Development**: Integrated with `react-scripts` for zero-config setup, making it easy to start coding right away.
+- **`React 18`**: The app is built using the latest version of React, taking advantage of its new features.
+- **`Testing`**: Includes testing utilities like `@testing-library/react` and `@testing-library/jest-dom` for unit testing.
+- **`Fast Development`**: Integrated with `react-scripts` for zero-config setup, making it easy to start coding right away.
 
-## Getting Started
+### Getting Started
 
 ### Prerequisites
 
